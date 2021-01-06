@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+  </head>
+  <body onkeypress="keyPressed(event)">
+    <div class="keys">
+      <div class="key" data-key="KeyA">
+        <kbd>A</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyS">
+        <kbd>S</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyD">
+        <kbd>D</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyF">
+        <kbd>F</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyG">
+        <kbd>G</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyH">
+        <kbd>H</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyJ">
+        <kbd>J</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyK">
+        <kbd>K</kbd>
+        <span>Palmas</span>
+      </div>
+      <div class="key" data-key="KeyL">
+        <kbd>L</kbd>
+        <span>Palmas</span>
+      </div>
+    </div>
+    <audio src="sounds/clap.wav" data-key="KeyA"></audio>
+    <audio src="sounds/boom.wav" data-key="KeyS"></audio>
+    <audio src="sounds/hihat.wav" data-key="KeyD"></audio>
+    <audio src="sounds/kick.wav" data-key="KeyF"></audio>
+    <audio src="sounds/openhat.wav" data-key="KeyG"></audio>
+    <audio src="sounds/ride.wav" data-key="KeyH"></audio>
+    <audio src="sounds/snare.wav" data-key="KeyJ"></audio>
+    <audio src="sounds/tink.wav" data-key="KeyK"></audio>
+    <audio src="sounds/tom.wav" data-key="KeyL"></audio>
+
+    <script>
+      function keyPressed(event) {
+        let x = event.code;
+        switch (x) {
+          case "KeyA":
+            document.get
+            document.getElementsByTagName("audio")[0].load();
+            document.getElementsByTagName("audio")[0].play();
+            break;
+          case "KeyS":
+            document.getElementsByTagName("audio")[1].load();
+            document.getElementsByTagName("audio")[1].play();
+            break;
+          case "KeyD":
+            document.getElementsByTagName("audio")[2].load();
+            document.getElementsByTagName("audio")[2].play();
+            break;
+          case "KeyF":
+            document.getElementsByTagName("audio")[3].load();
+            document.getElementsByTagName("audio")[3].play();
+            break;
+          case "KeyG":
+            document.getElementsByTagName("audio")[4].load();
+            document.getElementsByTagName("audio")[4].play();
+            break;
+          case "KeyH":
+            document.getElementsByTagName("audio")[5].load();
+            document.getElementsByTagName("audio")[5].play();
+            break;
+          case "KeyJ":
+            document.getElementsByTagName("audio")[6].load();
+            document.getElementsByTagName("audio")[6].play();
+            break;
+          case "KeyK":
+            document.getElementsByTagName("audio")[7].load();
+            document.getElementsByTagName("audio")[7].play();
+            break;
+          case "KeyL":
+            document.getElementsByTagName("audio")[8].load();
+            document.getElementsByTagName("audio")[8].play();
+            break;
+          default:
+            console.log("Tecla não funcional pressionada");
+        }
+      }
+    </script>
+  </body>
+</html>
