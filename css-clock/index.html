@@ -17,17 +17,35 @@
       background-image: linear-gradient(140deg, #EADEDB 0%, #BC70A4 50%, #BFD641 75%);
     }
     #baseRelogio{
+      display: flex;
+      align-items: center;
       width: 240px;
       height: 240px;
-      /* background-color: aqua; */
-      border: 12px solid #fff;
+      border: 12px solid #ffffff;
       border-radius: 120px;
+    }
+    #ponteiroHoras {
+      position: relative;
+      margin-left: 12px;
+      height: 8px;
+      width: 100px;
+      background-color: #000000;
+    }
+    #ponto {
+      width: 5px;
+      height: 5px;
+      background-color: #ff0000;
     }
   </style>
 </head>
 <body>
   <div id="conteudo">
-    <div id="baseRelogio"></div>
+    <div id="baseRelogio">
+      <div id="ponteiroHoras"></div>
+      <div id="ponteiroMinutos"></div>
+      <div id="ponteiroSegundos"></div>
+      <div id="ponto"></div>
+    </div>
   </div>  
 </body>
 </html>
