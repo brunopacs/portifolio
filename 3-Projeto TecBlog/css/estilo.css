@@ -1,0 +1,50 @@
+/*Limpar a formatação padrão de todos elementos:
+	*{
+	paddin:0px; margin: 0px;	
+	}
+	
+*/
+body{
+	margin: 0px; background: #e6e6e6; font: 16px Arial, Helvetica, sans-serif;
+}
+#tecblog{
+	font-size: 2.5em; padding: 20px; font-weight: bolder;
+}
+#cabecalho{
+	height: 130px; background: #f7b600; text-align: center;
+}
+#corpo{
+	width: 1000px; margin: 10px auto;
+	position: relative;
+}
+#conteudo{
+	width: 640px; background: white; padding: 20px;  margin-bottom: 10px;
+}
+#barra-lateral{
+	width: 300px; position: absolute; top: 0px; right: 0px; 
+}
+#rodape{
+	width: 1000px; background: #CCC; text-align: center; margin: 0px auto; padding: 10px 0px;
+}
+.lateral{
+	 background: white; padding: 8px; margin-bottom: 10px;
+}
+.titulo-lateral{
+	display: block; background: #CCC; padding: 5px; font-size: 1.2em; margin-bottom: 5px;
+}
+a{
+	text-decoration: none; color: #f7b600; 
+}
+a:hover{
+	text-decoration: underline;
+}
+/*poderia utilizar tbm #cabecalho a:link, #cabecalho a:visited{}*/
+a:link.menu,a:visited.menu{
+	color: white; padding: 8px 12px; 
+}
+a:hover.menu{
+	color: #f7b600; padding: 8px 12px; background: white; text-decoration: none;
+}
+h1{
+	padding: 0px; margin: 0px; color: #f7b600;
+}

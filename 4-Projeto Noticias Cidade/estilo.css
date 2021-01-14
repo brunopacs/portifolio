@@ -1,0 +1,125 @@
+/*FORMATAÇÃO GERAL*/
+*{
+	margin: 0px; padding: 0px;
+}
+body{
+	font: 16px "Times New Roman",Times,serif;
+	background: #fff url("imagens/fundo.png") repeat-x left top;
+}
+div#container{
+	width: 840px; margin: 0px auto;
+}
+ul{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+h3{
+	background: #303d8a; color: #fff; padding: 2px 5px; margin-bottom: 10px;
+}
+
+/* FORMATAÇÃO DO CABEÇALHO*/
+div#cabecalho{
+	height: 233px;
+	background: url("imagens/detalhe-topo.png") no-repeat right top;
+}
+#cabecalho ul{
+	margin-top: 50px; display: inline-block; 
+	background: #b81111
+}
+#cabecalho li{
+	display: inline-block;
+	background: url("imagens/divisor.png") no-repeat left center;
+}
+#cabecalho a{
+	color: white; padding: 13px;
+	display: inline-block;
+	
+}
+#cabecalho a.primeiro{
+	background: none;
+}
+#cabecalho a.atual{
+	background: #f23f3f;
+}
+#cabecalho a:hover{
+	color: #000;
+}
+
+/*FORMATAÇÃO DO CONTEUDO DE 3 COLUNAS*/
+#home div#conteudo{
+	float: left;
+}
+#home div#barra-esquerda{
+	margin-right: 15px; padding: 10px;
+	width: 150px; display: inline-block;
+	float: left; background: url("imagens/fundo-caixa.png");
+}
+#home div#barra-central{
+	margin-right: 15px; padding: 10px;
+	width: 300px; display: inline-block;
+	float: left;
+	background: url("imagens/fundo-caixa.png");
+}
+#home div#barra-direita{
+	width: 300px; display: inline-block;
+	float: left; padding: 10px;
+	background: url("imagens/fundo-caixa.png");
+}
+
+/*FORMATAÇÃO DO CONTEUDO DE 2 COLUNAS*/
+#brasil div#conteudo{
+	float: left;
+}
+#brasil div#barra-esquerda{
+	margin-right: 15px; padding: 10px;
+	width: 150px; display: inline-block;
+	float: left; background: url("imagens/fundo-caixa.png");
+}
+#brasil div#barra-central{
+	margin-right: 15px; padding: 10px;
+	width: 600px; display: inline-block;
+	float: left;
+	background: url("imagens/fundo-caixa.png");
+}
+
+/*FORMATAÇÃO DO CONTEUDO DE 1 COLUNA*/
+#fotos div#conteudo{
+	float: left;
+}
+#fotos div#barra-central{
+	padding: 10px;
+	width: 820px; display: inline-block;
+	float: left;
+	background: url("imagens/fundo-caixa.png");
+}
+
+/*FORMATACAO LAYOUT*/
+#barra-esquerda li{
+	margin: 10px 0px;
+}
+#barra-esquerda ul{
+	background-color: #fefefe;
+}
+#barra-esquerda a{
+	display: inline-block; width: 100%; line-height: 32px; text-indent: 10px;
+}
+#barra-esquerda a:hover{
+	background: #f9f9f9 url("imagens/marcador.png") no-repeat left center; 
+	text-indent: 20px;
+}
+#barra-central img, #barra-direita img{
+	width: 100% 
+}
+#barra-central div{
+	background-color: #fefefe; padding: 10px; margin-bottom: 10px;
+}
+#barra-direita div{
+	background-color: #fefefe; padding: 10px; margin-bottom: 10px;
+}
+
+/*FORMATA O RODAPE*/
+#rodape{
+	clear: both; text-align: center;background-color: #303d8a; line-height: 60px;
+}

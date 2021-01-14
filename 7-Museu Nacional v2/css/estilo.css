@@ -1,0 +1,147 @@
+/* ----------------------------FORMATAÇÃO GERAL-------------------------- */
+* {
+  box-sizing: border-box;
+}
+body {
+  font: 12px "Lucida Grande","Lucida Sans Unicode", Arial, sans-serif;
+  background: url("../img/fundo.png") repeat-x left top;
+  width: 100%;
+}
+#container {
+  width: 1080px;
+  height: 900px;
+  margin: 0px auto;
+}
+.clearfix::after{
+  content: "";
+  clear: both;
+  display: table;
+}
+a:link, a:visited, a:active {
+  color: #af670a;
+  text-decoration: none;
+}
+a:hover{
+  color: #227115;
+}
+/*--------------------FORMATAÇÃO SUPERIROR---------------------------------- */
+#superior {
+ margin-top: 15px;
+}
+/*------------------FORMATAÇÃO HEADER------------------------------------------*/
+header {
+  width: 248px;
+  height: 21px;
+  background: url("../img/logo.png") no-repeat;
+  text-indent: -9000px;
+  float: left;
+  margin-top: 15px;
+}
+/*--------------------------FORMATAÇÃO NAV--------------------------------------*/
+nav {
+  float: right;
+  margin-top: 10px;
+}
+nav ul {
+  list-style-type: none;
+  margin-right: 30px;
+}
+nav li {
+  display: inline-block;
+  font-size: 1.1em;
+  margin-right: 15px;
+}
+nav li a:hover {
+  border-bottom: 1px solid #227115;
+}
+/*--------------------------FORMATAÇÃO CONTEUDO-----------------------------------*/
+#conteudo {
+  margin-top: 15px;
+}
+#conteudo h4 {
+  color: #227115;
+  text-transform: uppercase;
+}
+#foto-principal {
+  float: left;
+}
+#foto-principal img{
+  width: 710px;
+  height: 320px;
+}
+#depoimento {
+  float: right;
+}
+#video {
+  float: left;
+  margin-left: 20px;
+}
+#mapa {
+ float: left;
+ margin-left: 40px; 
+}
+#form {
+  float: right;
+  margin-top: 15px;
+  width: 350px;
+  background-color: #cdc8b1;
+}
+#form form fieldset {
+  border: none;
+}
+#form input[type="number"] {
+  width: 60px;
+  height: 30px;
+}
+#form input[type="date"] {
+  height: 30px;
+  width: 130px;
+}
+#form input[type="submit"] {
+  font-size: 1.3em;
+  background: #9b9271;
+  color: white;
+  border: none;
+  text-transform: uppercase;
+  margin-top: 8px;
+  width: 100%;
+  height: 40px;
+}
+#exposicoes {
+  float: left;  
+  margin-left: 20px;
+  width: 300px;
+}
+#historia {
+  float: left;
+  margin-left: 40px;
+  width: 300px;
+}
+#galeria {
+  float: right;
+  width: 350px;
+}
+#galeria a {
+	background: url("../img/fundo-foto.png");
+	float: left;
+	padding: 15px 15px 18px 15px;
+	margin: 10px 0 0 20px;
+}
+/*---------------------------------FOOTER----------------------------------*/
+footer{
+	margin-top: 10px;
+	background: url(../img/fundo-rodape.png) repeat-x;
+	padding: 20px 0 20px 0;
+	text-align: center;
+}
+footer ul{
+	text-decoration: none;
+}
+footer li{
+	display: inline-block;
+	margin: 0 10px;
+	text-transform: lowercase;
+}
+footer ul a{
+	font-size: 1.1em;
+}

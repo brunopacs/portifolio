@@ -1,0 +1,130 @@
+/*-------------ESTRUTURA DO SITE-------------------------*/
+body{
+	background: #f4f2ec url("../img/fundo.png") repeat-x;
+	font: 12px "Lucida Grande","Lucida Sans Unicode", Arial, sans-serif;
+}
+#container{
+	width: 1080px;
+	margin: 0px auto;
+}
+a:link, a:visited, a:active{
+	color: #af670a;
+	text-decoration: none;
+}
+a:hover{
+	color: #227115;
+}
+#galeria a{
+	background: url("../img/fundo-foto.png") no-repeat;
+	float: left;
+	padding: 15px 15px 18px 15px;
+	margin: 10px 0 0 20px;
+}
+
+/*-------------------CABEÇALHO----------------------------------*/
+header{
+	padding: 15px 0;
+	height: 55px;
+}
+#logo h1{
+	float: left;
+}
+
+#logo a{
+	width: 248px;
+	height: 21px;
+	text-indent: -90000px;
+	display: block;
+	background: url("../img/logo.png");
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 20px;
+	float: right;
+}
+
+nav li{
+	float: left;
+}
+
+nav li a{
+	display: block;
+	margin-right: 25px;
+	padding-bottom: 3px;
+	text-transform: uppercase;
+}
+
+nav li a:hover{
+	border-bottom: 1px solid #535858
+}
+
+/*--------------------------Conteudo-----------------------*/
+#conteudo{
+	width: 710px;
+	float: left;
+	background: #ebe7dd;
+}
+#postagens article, #exposicoes, #historia{
+	width: 310px;
+	margin: 20px;
+	float: left;
+}
+
+h3{
+	color: #227115;
+	font-size: 1.0em;
+	margin-bottom: 15px;
+	text-transform: uppercase;
+}
+
+/*------------------------ASIDE-----------------------------*/
+aside{
+	width: 350px;
+	float: right;	
+	background: #ebe7dd;
+	padding-bottom: 30px;
+}
+#visita{
+	background: #cdc8b1;
+	padding: 10px 27px 27px 27px;
+}
+h4{
+	color: #86521a;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+	margin-bottom: 0px;
+}
+#visita input{
+	margin-bottom: 5px;
+	font-size: 1.2em;
+}
+#visita input[type="submit"]{
+	background: #9b9271;
+	width: 100%;
+	color: white;
+	height: 40px;
+}
+#galeria{
+	padding: 0px 27px 0 27px;
+}
+
+
+/*-----------------------FOOTER------------------------*/
+footer{
+	margin-top: 10px;
+	background: url(../img/fundo-rodape.png) repeat-x;
+	padding: 20px 0 20px 0;
+	text-align: center;
+}
+footer ul{
+	text-decoration: none;
+}
+footer li{
+	display: inline-block;
+	margin: 0 10px;
+	text-transform: lowercase;
+}
+footer ul a{
+	font-size: 1.1em;
+}

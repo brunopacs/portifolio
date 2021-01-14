@@ -1,0 +1,46 @@
+html, body{
+	margin: 0px;
+	font: 16px "Lato",sans-serif;
+	color: #777;
+	height: 100%;
+}
+h3{
+	text-transform: uppercase;
+	color: #111;
+	text-align: center;
+}
+.conteudo{
+	color: #777;
+	background: white;
+}
+.titulo-caixa{
+	position: relative;
+	top: 50%;
+	font-size: 3em;
+	text-align: center;
+}
+.titulo-caixa span.titulo{
+	background: rgba(207, 249, 250, 0.5);
+	padding: 10px;
+	border-radius: 5px;
+	color: black;
+}
+.caixa1,.caixa2,.caixa3,.caixa4{
+	opacity: 0.8;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+.caixa1{
+	background-image: url("imagens/imagem1.jpg");
+}
+.caixa2{
+	background-image: url("imagens/imagem2.jpg");
+}
+.caixa3{
+	background-image: url("imagens/imagem3.jpg");
+}
+.caixa4{
+	background-image: url("imagens/imagem4.jpg");
+}

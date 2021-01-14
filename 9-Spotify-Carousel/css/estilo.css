@@ -1,0 +1,185 @@
+/* LAYOUT----------------------------------------------------------------------------------- */
+html, body, #principal {
+  height: 100%;
+  overflow-x: hidden;  
+}
+body {
+  background: url("../img/capa.png"),url("../img/ruido.png"),
+  linear-gradient(50deg,#ff4169,#7c26f8);
+  background-attachment: fixed;
+}
+nav.navbar-opacity {
+  background: rgba(0, 0, 0, 0.6);
+}
+footer {
+  color: white;
+  padding: 20px 0px;
+  position: relative;
+}
+/* Formatação dos links da nav ------------------------------------------------------------*/
+.navbar-nav .nav-link {
+  color: white;
+}
+.navbar-nav .nav-link:hover {
+  color: #9bf0e1;
+}
+/* Formatação hamburguer --------------------------------------------------------------------*/
+.navbar-toggler {
+  color:white;
+  border-color: rgba(255, 255, 255, 0.5);
+}
+.divisor {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 21px;
+  cursor: default;
+}
+
+/* Formatação botao principal----------------------------------------------------------- */
+.btn-custom {
+  color: white;
+  border-radius: 500px;
+  text-transform: uppercase;
+  transition: background 0.4s, color 0.4s;  
+}
+.btn-roxo {
+  background-color: #7c25f8;
+}
+.btn-roxo:hover {
+  background-color: #5015a3;
+  color: white;
+}
+.btn-branco {
+  border: 1px solid white;
+}
+.btn-branco:hover {
+  background-color: white;
+  color: black;
+}
+/* TIPOGRAFIA---------------------------------------------------------------------------- */
+#servicos h2, #servicos h3 {
+  color: #7c25f8;
+}
+#recursos h2 {
+  color: white;
+  font-size: 3rem;
+  font-weight: 500;
+}
+#recursos h3 {
+  color: #9bf0e1;
+}
+#recursos p {
+  color: white;
+  font-weight: 500;
+}
+h2 {
+  font-weight: 900;
+  margin-bottom: 1rem;
+}h3 {
+  font-weight: 500;
+}
+footer h4 {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  color: #919496;
+}
+footer a {
+  font-size: 0.8rem;
+  color: white;
+}
+footer .navbar-nav a:hover {
+  color: #9bf0e1;
+  text-decoration: none;
+}
+/* MEDIA --------------------------------------------------------------------------------*/
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  #principal h1 {
+    font-size: 2.5rem;
+  }
+  .btn-roxo{
+    margin-bottom: 2rem;
+  }
+  #servicos .album {
+    margin: 0px;
+    padding-top: 0.5rem;
+  }
+  #servicos h2 {
+    font-size: 2rem;
+  }
+  #servicos h3 {
+    font-size: 1.7rem;
+  }
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #principal h1 {
+    font-size: 3rem;
+  }
+  .btn-roxo{
+    margin-bottom: 2rem;
+  }
+  #servicos .album {
+    margin: 0px;
+    padding-top: 0.5rem;
+  }
+  #servicos h2 {
+    font-size: 2rem;
+  }
+  #servicos h3 {
+    font-size: 1.7rem;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #principal h1 {
+    font-size: 4rem;
+  }
+  #servicos .album {
+    margin: 0px;
+    padding: 0.5rem;
+  }
+  #servicos h2 {
+    font-size: 1.5rem;
+  }
+  #servicos h3 {
+    font-size: 1rem;
+  }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #principal h1 {
+    font-size: 6rem;
+  }
+  #servicos .album {
+    margin: 0px;
+    padding: 0.8rem;
+  }
+  #servicos h2 {
+    font-size: 2rem;
+  }
+  #servicos h3 {
+    font-size: 1.7rem;
+  }
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  #principal h1 {
+    font-size: 6rem;
+  }
+  #servicos .album {
+    margin: 0px;
+    padding: 1rem;
+  }
+  #servicos h2 {
+    font-size: 3rem;
+  }
+  #servicos h3 {
+    font-size: 2rem;
+  }
+}

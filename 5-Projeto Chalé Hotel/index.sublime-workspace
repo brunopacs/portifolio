@@ -1,0 +1,613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"alig",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"decora",
+				"box-decoration-break\tproperty"
+			],
+			[
+				"decorat",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"decor",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"padi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"dire",
+				"flex-direction\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fle",
+				"flex-shrink\tproperty"
+			],
+			[
+				"flex-",
+				"flex-grow\tproperty"
+			],
+			[
+				"space",
+				"space-around\talign-content"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"au",
+				"autofocus\tAttr"
+			],
+			[
+				"transiti",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"transi",
+				"transition-duration\tproperty"
+			],
+			[
+				"tr",
+				"transition-duration\tproperty"
+			],
+			[
+				"width",
+				"width\tproperty"
+			],
+			[
+				"colo",
+				"background-color\tproperty"
+			],
+			[
+				"animati",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"animation-",
+				"animation-direction\tproperty"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"shad",
+				"box-shadow\tproperty"
+			],
+			[
+				"shado",
+				"box-shadow\tproperty"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"bl",
+				"inline-block\tdisplay"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"transfor",
+				"text-transform\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"inle",
+				"inline-block\tdisplay"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"backgrou",
+				"background\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"cr",
+				"all-scroll\tcursor"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"border-col",
+				"border-collapse\tproperty"
+			],
+			[
+				"texte",
+				"text-decoration\tproperty"
+			],
+			[
+				"style",
+				"list-style-type\tproperty"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"n",
+				"lower-norwegian\tlist-style-type"
+			],
+			[
+				"deco",
+				"text-decoration\tproperty"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"righ",
+				"border-right\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"aling",
+				"text-align\tproperty"
+			],
+			[
+				"text-deo",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"siz",
+				"size\tproperty"
+			],
+			[
+				"alin",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"fon",
+				"font\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"c",
+				"cursive\tfont"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"d",
+				"dotted\tborder-style"
+			],
+			[
+				"boder-lef",
+				"border-left-width\tproperty"
+			],
+			[
+				"color",
+				"color\tproperty"
+			],
+			[
+				"ca",
+				"colspan\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bruno/Desktop/Projetos/7-Museu Nacional/index.html",
+		"/C/Users/bruno/Desktop/Projetos/7-Museu Nacional/css/estilo.css",
+		"/C/Users/bruno/Desktop/Projetos/7-Museu Nacional/css/normalize.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/flexbox-items/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/flexbox-items/estilo.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/flexbox/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/novas-input/estilo.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/novas-input/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/header-nav-article-section-aside-footer/estilo.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/header-nav-article-section-aside-footer/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/transicoes/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/transicoes/estilo.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/transicoes/estilo1.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/transicoes/teste.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/normalize.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/animacoes/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/animacoes/estilo.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/sombras/estilo.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/sombras/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/border-radius-box-sizing/estilo.css",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/border-radius-box-sizing/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/normalize-css/index.html",
+		"/C/Users/bruno/Desktop/estudos web/HTML5-CSS3-Recursos-Especiais/normalize-css/css/normalize.css",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/Fontes-customizadas/index.html",
+		"/C/Users/bruno/Desktop/Projetos/6-Parallax/estilo.css",
+		"/C/Users/bruno/Desktop/Projetos/6-Parallax/index.html",
+		"/C/Users/bruno/Desktop/teste.html",
+		"/C/Users/bruno/Desktop/Projetos/5-Projeto Chalé Hotel/estilo.css",
+		"/C/Users/bruno/Desktop/Projetos/5-Projeto Chalé Hotel/index.html",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/estilo.css",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/fotos.html",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/brasil.html",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/index.html",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/ciencia.html",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/saude.html",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/economia.html",
+		"/C/Users/bruno/Desktop/Projetos/4-Projeto Noticias Cidade/internacional.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/arredondamento-imagem/estilo.css",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/arredondamento-imagem/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/formulario-login/estilo.css",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/formulario-login/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/formulario-estilo/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/formulario-estilo/estilo.css",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/tabela-estilo/estilo.css",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/tabela-estilo/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/imagens-liquidas/estilo.css",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/imagens-liquidas/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/abas/estilo.css",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/abas/servicos.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/abas/sobre.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/abas/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/navegação horizontal/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/marcar pagina atual/index.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/marcar pagina atual/limao.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/barrade navegação vertical/menu-vertical.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/heranca e especificidade/heranca-especificidade.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/seletores/seletor-adjacente.html",
+		"/C/Users/bruno/Desktop/CSS5 Interm. e Avan/seletores/seletor-adjacente-geral.html",
+		"/C/Users/bruno/Desktop/teste2.html",
+		"/C/Users/bruno/Desktop/Projetos/3-Projeto TecBlog/index.html",
+		"/C/Users/bruno/Desktop/Projetos/3-Projeto TecBlog/css/estilo.css",
+		"/C/Users/bruno/Desktop/estudo css/formatando-links/formatando-links.html",
+		"/C/Users/bruno/Desktop/estudo css/sobreposicao/sobreposicao.html",
+		"/C/Users/bruno/Desktop/estudo css/block-inline-inlineblock/inlineblock.html",
+		"/C/Users/bruno/Desktop/estudo css/elementos flutuantes/noticia.html",
+		"/C/Users/bruno/Desktop/estudo css/elementos flutuantes/estilo.css",
+		"/C/Users/bruno/Desktop/estudo css/elementos flutuantes/elementos-flutuantes.html",
+		"/C/Users/bruno/Desktop/Projetos/Projeto Gui/pagina1.html",
+		"/C/Users/bruno/Desktop/estudo css/modelo de caixa/modelo-caixa.html",
+		"/C/Users/bruno/Desktop/estudo css/modelo de caixa/modelo-caixa-span.html",
+		"/C/Users/bruno/Desktop/Projetos/2-Projeto Anna Bella/modelo-caixa.html",
+		"/C/Users/bruno/Desktop/Projetos/2-Projeto Anna Bella/body.css",
+		"/C/Users/bruno/Desktop/Projetos/2-Projeto Anna Bella/index.html",
+		"/C/Users/bruno/Desktop/Projetos/2-Projeto Anna Bella/biografia.html",
+		"/C/Users/bruno/Desktop/Projetos/2-Projeto Anna Bella/campanhas.html",
+		"/C/Users/bruno/Desktop/Projetos/2-Projeto Anna Bella/contato.html",
+		"/C/Users/bruno/Desktop/estudo css/externalstyle.css",
+		"/C/Users/bruno/Desktop/estudo css/pagina2.html",
+		"/C/Users/bruno/Desktop/estudo css/pagina1.html",
+		"/C/Users/bruno/Desktop/estudo css/cor-imagem-fundo.html",
+		"/C/Users/bruno/Desktop/estudo css/estilos.html",
+		"/C/Users/bruno/Desktop/estudo css/fontes-cores.html",
+		"/C/Users/bruno/Desktop/estudo css/tamanho-texto.html",
+		"/C/Users/bruno/Desktop/estudo css/bordas.html",
+		"/C/Users/bruno/Desktop/estudo css/div-span.html",
+		"/C/Users/bruno/Desktop/estudo css/classes-id.html",
+		"/C/Users/bruno/Desktop/estudo css/inlinestyle.html",
+		"/C/Users/bruno/Desktop/Projeto unes/quemsomos.html",
+		"/C/Users/bruno/Desktop/Projeto unes/index.html",
+		"/C/Users/bruno/Desktop/Projeto unes/contato.html",
+		"/C/Users/bruno/Desktop/Estudo HTML/introducaohtml.html",
+		"/C/Users/bruno/Desktop/Estudo HTML/conceitos.html",
+		"/C/Users/bruno/Desktop/Projeto HTML/contato.html",
+		"/C/Users/bruno/Desktop/Projeto HTML/projeto.html",
+		"/C/Users/bruno/Desktop/Projeto HTML/index.html",
+		"/C/Users/bruno/Desktop/Projeto HTML/imagen.html",
+		"/C/Users/bruno/Desktop/Projeto HTML/iamgem.html",
+		"/C/Users/bruno/Desktop/Projeto Aula/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			";\n",
+			"logo",
+			"AAAAAAAAA",
+			"3b3838",
+			"\"capa\"",
+			"h4",
+			"<h4",
+			"388px",
+			">",
+			"%\">",
+			"textarea",
+			"jpg",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"principal\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

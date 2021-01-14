@@ -1,0 +1,115 @@
+/*FORMATAÇÃO GERAL*/
+*{
+	margin: 0px; padding: 0px;
+}
+html{
+	font: 16px Arial,Helvetica,sans-serif;
+}
+body{
+	background: #cecece url("imagens/bg.png");
+	margin: 15px auto; width: 89%;
+	min-width: 740px; max-width: 1180px;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}
+
+/*----------------------------FORMATAÇÃO CABEÇALHO-------------------------------*/
+#cabecalho{
+	background: url("imagens/topo-imagem-principal.png") no-repeat;
+	height: 250px;
+}
+div.logo{
+	margin: 15px; float: left;
+}
+div.container-menu{
+	background: url("imagens/topo-imagem-lateral.png");
+	width: 470px; height: 250px;
+	float: right;
+}
+div.menu{
+	margin: 20px 20px 0px 100px;
+	background: url("imagens/depoimento.png") no-repeat right bottom;
+}
+div.reservar{
+	border-top: 1px solid black; border-bottom: 1px solid black;
+	line-height: 32px; font-size: 0.7em
+}
+div.reservar a{
+	background: #85823a; color: #fff9ba;
+	padding: 5px 8px; margin-left: 50px; font-size: 1em;
+	line-height: 1em;
+}
+div.paginas{
+	margin-top: 20px;
+	
+}
+div.paginas li a{
+	display: inline-block; padding: 5px;
+	margin: 2px; font-size: 0.9em;
+	color: #000;
+}
+div.paginas li a:hover{
+	background: #fff9ba;
+}
+
+/*FORMATAÇÃO DO CORPO*/
+div#corpo{
+	float: left;
+	background: url("imagens/bg-container.png") repeat-y center center;
+	width: 100%
+
+}
+
+/*--------------------FORMATAÇÃO CONTEUDO PRINCIPAL-------------------------------*/
+div.principal{
+	background: url("imagens/bg-area-principal.png") repeat-x;
+	float: left; width: 50%;
+}
+div.conteudo-principal{
+	padding: 20px;
+}
+div.conteudo-principal h3,div.conteudo-principal p{
+	margin-bottom: 10px;
+}
+
+/*-----------------FORMATAÇÃO CONTEUDO SECUNDARIO----------------------------------*/
+div.secundario{
+	background: url("imagens/bg-area-lateral.png") repeat-x;
+	float: left; width: 50%;
+}
+div.secundario ul{
+	margin: 20px;
+}
+div.secundario li{
+	border-bottom: 1px solid #f7e4a3;
+	padding: 8px;
+	margin-bottom: 10px;
+	float: left;
+}
+
+div.secundario li:hover{
+	background: #fff9ba;
+}
+.secundario img{
+	width: 150px; margin-right: 10px;
+	float: left;
+}
+.secundario a{
+	color: #000;
+}	
+.secundario h3{
+	background: url("imagens/ornamento.png") no-repeat right top;
+}
+
+
+/*-----------------------FORMATAÇÃO DO RODAPE------------------------------------*/
+div#rodape{
+	clear: both;
+	background: #fff url("imagens/bg-rodape.png") repeat-x left top;
+	padding: 20px;
+}
+
